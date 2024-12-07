@@ -1,0 +1,30 @@
+name: zakah_for_years
+version: 1.0.0+3
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.1.4
+  flutter: 
+    sdk: flutter
+  url_launcher: ^6.0.9
+  oktoast: ^3.1.1
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/img/
+
+  fonts:
+    - family: Helve
+      fonts:
+        - asset: assets/fonts/HelveticaNeueLTW20-Light.ttf
