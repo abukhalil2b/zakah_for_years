@@ -1,6 +1,6 @@
 # zakah_for_years
 
-A new Flutter project.
+flutter project to calculate the zakah for past years
 
 ## Getting Started
 
